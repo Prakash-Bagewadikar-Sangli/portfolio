@@ -1,6 +1,6 @@
-Portfolio Using Python and Django 
-*This is my first project
-*This is simple portfolio project
+#Portfolio Using Python and Django 
+#This is my first project
+#This is simple portfolio project
 
 -->
 
